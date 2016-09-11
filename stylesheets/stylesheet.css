@@ -4,6 +4,8 @@
   font-size: 12px;
 }
 
+h1 {font-size: 2em;}
+
 #container{
   width: 100%;
   min-width: 600px;
@@ -21,6 +23,14 @@
   background-repeat: no-repeat;
   background-position: center top;
   background-image:url("../images/banner.jpg");
+}
+
+#header h1{
+  padding: 10px;
+  float: right;
+  color: #FFF;
+  font-size: 2.5em;
+  margin-right: 10px;
 }
 
 #navigation{
