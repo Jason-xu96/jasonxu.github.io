@@ -4,7 +4,16 @@
   font-size: 12px;
 }
 
-h1 {font-size: 2em;}
+body{
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: .80em;
+  color: #333333;
+  background-color: #fff;
+}
+
+h1{font-size: 2em;}
+
+h2{font-size: 1em;}
 
 #container{
   width: 100%;
