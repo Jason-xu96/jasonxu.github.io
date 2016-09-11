@@ -1,23 +1,22 @@
 * {
   margin: 0;
   padding: 0;
+  font-size: 12px;
 }
 
 #container{
-  width: 960px;
-  margin-top: 10px;
+  width: 100%;
+  min-width: 600px;
+  max-width: 1250px;
+  margin-top: 0px;
   margin-right: auto;
   margin-left: auto;
-  margin-bottom: 10px;
+  margin-bottom: 0px;
   position: relative;
-  background-color: #FFF;
 }
 
 #header{
-  height: 107px;
-  padding: 10px;
-  float: left;
-  color: #000;
+  height: 207px;
   margin-bottom: 20px;
   background-repeat: no-repeat;
   background-position: center top;
