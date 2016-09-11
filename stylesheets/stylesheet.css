@@ -48,6 +48,7 @@ h1 {font-size: 2em;}
   text-align: right;
   background-color: none;
   display: block;
+  font-size: 1.5em;
   padding-right: 16px;
   line-height: 2em;
   text-decoration: none;
@@ -59,7 +60,13 @@ h1 {font-size: 2em;}
   display: block;
   color: white;
 }
+
 #navigation .current-page{
   background-color: #708DB5;
   color: white;
+}
+
+#centerDoc{
+  float: right;
+  width: 80%;
 }
