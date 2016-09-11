@@ -89,6 +89,7 @@ h2{font-size: 1em;}
   list-style: none;
   padding-left: 20px;
   line-height: 1.5em;
+  list-style-type: none;
 }
 
 #centerDoc ol{
