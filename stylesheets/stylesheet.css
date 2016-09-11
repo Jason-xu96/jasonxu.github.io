@@ -22,3 +22,34 @@
   background-position: center top;
   background-image:url("../images/banner.jpg");
 }
+
+#navigation{
+  float: left;
+  width: 19%;
+  background-color: #FFF;
+}
+
+#navigation li{
+  list-style: none;
+  line-height: 1.5em;
+}
+
+#navigation a{
+  text-align: right;
+  background-color: none;
+  display: block;
+  padding-right: 16px;
+  line-height: 2em;
+  text-decoration: none;
+  color: black;
+}
+
+#navigation a:hover{
+  background-color: #708DB5;
+  display: block;
+  color: white;
+  #navigation .current-page{
+    background-color: #708DB5;
+    color: white;
+  }
+}
