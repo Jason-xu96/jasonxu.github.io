@@ -14,9 +14,8 @@
 }
 
 #header{
-  background-color: #FAF0E6;
+  height: 107px;
   margin-bottom: 20px;
-  border-style: solid;
-  border-width: 1px;
-  border-color: red;
+  background-repeat: no-repeat;
+  background-position: center top;
 }
