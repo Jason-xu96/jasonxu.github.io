@@ -91,18 +91,21 @@ h2{font-size: 1em;}
   line-height: 1.5em;
 }
 
-#centerDoc ul{
+#centerDoc ol{
   margin-bottom: 10px;
 }
 
 #centerDoc p,h1{
   padding-left: 10px;
   padding-right: 10px;
+}
+
+#centerDoc p{
   margin-bottom: 10px;
 }
 
-#cenerDoc p{
-  font-size: 19px;
+#centerDoc h1{
+  margin-bottom: 10px;
 }
 
 #footer{
