@@ -83,6 +83,7 @@ h2{font-size: 1em;}
 #centerDoc{
   float: right;
   width: 80%;
+  padding-left: 8cm;
 }
 
 #centerDoc li{
