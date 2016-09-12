@@ -87,14 +87,12 @@ h2{font-size: 1em;}
 
 #centerDoc li{
   list-style: none;
-  padding-left: 20px;
+  padding-left: 10px;
   line-height: 1.5em;
-  list-style-type: none;
 }
 
 #centerDoc ul{
-  margin-bottom: 20px;
-  list-style-type: none;
+  margin-bottom: 10px;
 }
 
 #centerDoc p,h1{
