@@ -94,6 +94,7 @@ h2{font-size: 1em;}
 
 #centerDoc ul{
   margin-bottom: 10px;
+  list-style-type: none;
 }
 
 #centerDoc p,h1{
