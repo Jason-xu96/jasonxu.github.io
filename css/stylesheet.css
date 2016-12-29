@@ -10,7 +10,7 @@
 .header h1
 {
   position: absolute;
-  top: 175px;
+  top: 215px;
   left: 39%;
   font-size: 60px;
   font-family: 'GilroyBold', 'Montserrat', serif;
@@ -20,9 +20,20 @@
 .header h2
 {
   position: absolute;
-  top: 135px;
+  top: 175px;
   left: 42%;
   font-size: 30px;
   font-family: 'MoonLight', 'Open Sans', sans-serif;
   color: white;
+}
+
+.nav a
+{
+  font-size: 21px;
+  margin-right: 7px;
+}
+
+.navbar a
+{
+  font-size: 21px;
 }
