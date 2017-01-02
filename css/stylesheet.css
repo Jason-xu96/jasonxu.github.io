@@ -37,3 +37,44 @@
 {
   font-size: 21px;
 }
+
+.self-icon
+{
+  height: 120px;
+  width: 110px;
+  margin-top: 20px;
+}
+
+h3
+{
+  font-size: 30px;
+}
+
+.about p
+{
+  font-size: 15px;
+}
+
+.skills
+{
+  background-color: #f5f5f0;
+  color: black;
+  position: relative;
+  top: 40px;
+}
+
+.skills-list
+{
+  padding: 0 0 30px 300px;
+}
+
+.contact
+{
+  position: relative;
+  top: 40px;
+}
+
+.icon
+{
+  padding-left: 400px;
+}
