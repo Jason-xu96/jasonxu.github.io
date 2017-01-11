@@ -1,2 +1,2 @@
-My portfolio built from scratch using html and css
+My portfolio
 https://jason-xu96.github.io/jasonxu.github.io/
