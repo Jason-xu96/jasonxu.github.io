@@ -27,6 +27,16 @@
   color: white;
 }
 
+#delay1
+{
+  opacity: 0;
+}
+
+#delay2
+{
+  opacity: 0;
+}
+
 .nav a
 {
   font-size: 21px;
@@ -40,8 +50,8 @@
 
 .self-icon
 {
-  height: 120px;
-  width: 110px;
+  height: 150px;
+  width: 150px;
   margin-top: 20px;
 }
 
@@ -68,6 +78,12 @@ h3
   padding: 0 0 30px 300px;
 }
 
+.projects
+{
+  position: relative;
+  top: 40px;
+}
+
 .contact
 {
   position: relative;
@@ -77,4 +93,10 @@ h3
 .icon
 {
   padding-left: 400px;
+}
+
+.footer
+{
+  position: relative;
+  top: 40px;
 }
