@@ -1,3 +1,7 @@
+h3
+{
+  font-size: 30px;
+}
 
 .header img
 {
@@ -5,13 +9,14 @@
   filter: blur(2px);
   width: 1370px;
   height: 450px;
+  margin-left: 70px;
 }
 
 .header h1
 {
   position: absolute;
   top: 215px;
-  left: 39%;
+  left: 42%;
   font-size: 60px;
   font-family: 'GilroyBold', 'Montserrat', serif;
   color: white;
@@ -21,7 +26,7 @@
 {
   position: absolute;
   top: 175px;
-  left: 42%;
+  left: 44%;
   font-size: 30px;
   font-family: 'MoonLight', 'Open Sans', sans-serif;
   color: white;
@@ -39,13 +44,13 @@
 
 .nav a
 {
-  font-size: 21px;
+  font-size: 20px;
   margin-right: 7px;
 }
 
 .navbar a
 {
-  font-size: 21px;
+  font-size: 20px;
 }
 
 .self-icon
@@ -53,16 +58,23 @@
   height: 150px;
   width: 150px;
   margin-top: 20px;
+  margin-left: 160px;
 }
 
-h3
+.about
 {
-  font-size: 30px;
+  padding-right: 150px;
 }
 
 .about p
 {
   font-size: 15px;
+  padding-right: 250px;
+}
+
+.about h3
+{
+  padding-left: 240px;
 }
 
 .skills
@@ -71,6 +83,7 @@ h3
   color: black;
   position: relative;
   top: 40px;
+  padding-top: 1px;
 }
 
 .skills-list
@@ -78,16 +91,47 @@ h3
   padding: 0 0 30px 300px;
 }
 
+.skills-list li
+{
+  padding-bottom: 5px;
+}
+
 .projects
 {
   position: relative;
-  top: 40px;
+  top: 70px;
+  left: 70px;
+}
+
+.projects h3
+{
+  position: relative;
+  left: 650px;
+}
+
+.carousel-indicators
+{
+  padding-right: 160px;
+}
+
+.left
+{
+  padding-top: 260px;
+  padding-right: 100px;
+  font-size: 80px;
+}
+
+.right
+{
+  padding-top: 260px;
+  left: 1150px;
+  font-size: 80px;
 }
 
 .contact
 {
   position: relative;
-  top: 40px;
+  top: 70px;
 }
 
 .icon
@@ -98,5 +142,5 @@ h3
 .footer
 {
   position: relative;
-  top: 40px;
+  top: 80px;
 }
