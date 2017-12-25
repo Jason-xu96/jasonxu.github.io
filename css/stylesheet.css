@@ -48,6 +48,11 @@ h3
   margin-right: 7px;
 }
 
+#contact
+{
+  margin-right: 25px;
+}
+
 .navbar a
 {
   font-size: 20px;
@@ -63,18 +68,21 @@ h3
 
 .about
 {
+  color: black;
+  padding-top: 40px;
   padding-right: 150px;
 }
 
 .about p
 {
-  font-size: 15px;
-  padding-right: 250px;
+  font-size: 18px;
+  padding-left: 20px;
 }
 
 .about h3
 {
-  padding-left: 240px;
+  font-size: 25px;
+  padding-left: 245px;
 }
 
 .skills
@@ -83,12 +91,12 @@ h3
   color: black;
   position: relative;
   top: 40px;
-  padding-top: 1px;
+  padding-top: 15px;
 }
 
 .skills-list
 {
-  padding: 0 0 30px 300px;
+  padding: 0 0 45px 15%;
 }
 
 .skills-list li
@@ -98,6 +106,7 @@ h3
 
 .projects
 {
+  color: black;
   position: relative;
   top: 70px;
   left: 70px;
@@ -106,7 +115,7 @@ h3
 .projects h3
 {
   position: relative;
-  left: 650px;
+  right: 60px;
 }
 
 .carousel-indicators
@@ -136,7 +145,7 @@ h3
 
 .icon
 {
-  padding-left: 400px;
+  padding-left: 200px;
 }
 
 .footer
